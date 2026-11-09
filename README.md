@@ -2,45 +2,49 @@
 
 <img src="./assets/banner.svg" alt="Awesome B2B Partner Collaboration Workspaces Banner" width="100%" />
 
-# Awesome B2B Partner Collaboration Workspaces & Client Portals
+# 🤝 Awesome B2B Partner Collaboration Workspaces & Client Portals 🌐
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![Tracked Topics](https://img.shields.io/badge/topics-B2B%20%7C%20Client%20Portals%20%7C%20Shared%20Workspaces-blue.svg)](https://github.com/ishandutta2007/Awesome-B2B-Partner-Collaboration-Workspaces)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-B2B-Partner-Collaboration-Workspaces/pulls)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-**A curated index of B2B partner collaboration workspaces, enterprise client portals, external guest bridges, and self-hosted open-source collaboration platforms.**
+**A comprehensive, curated index of B2B partner collaboration workspaces 🏢, enterprise client portals 💼, cross-organizational bridges 🌉, and self-hosted open-source collaboration platforms 🚀.**
 
 ---
 
 </div>
 
-## Table of Contents
+## 📑 Table of Contents
 
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [Proprietary SaaS Solutions](#proprietary-saas-solutions)
-  - [Overview Table (Sorted by Company Scale)](#overview-table-sorted-by-company-scale)
-  - [Architectural Categories](#architectural-categories)
-- [Open-Source Solutions](#open-source-solutions)
-- [Key Architectural Considerations](#key-architectural-considerations)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
-## Sector Overview & Market Dynamics
-
-The global client portal software and dedicated B2B collaboration market is estimated at **$1.75B to $2.2B**, expanding toward **$8.0B by the early 2030s** at an estimated CAGR of ~18%, operating within the broader **$430B+ global B2B SaaS** and enterprise collaboration ecosystem.
-
-The sector exhibits **moderate fragmentation with bi-modal concentration**: mega-cap ecosystem titans (Microsoft, Salesforce/Slack) dominate horizontal inter-organization messaging and shared channels ("winner-take-most" in general business communication), while specialized B2B workflows—such as white-label agency client portals, secure virtual data rooms (VDRs), sales enablement rooms, and open-source self-hosted portals—remain highly fragmented among niche providers competing on custom branding, regulatory compliance, client permissions, and multi-tenant isolation.
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ Proprietary SaaS Solutions](#️-proprietary-saas-solutions)
+  - [📋 Overview Table (Sorted by Company Scale)](#-overview-table-sorted-by-company-scale)
+  - [🏗️ Architectural Categories](#️-architectural-categories)
+- [💻 Open-Source Solutions](#-open-source-solutions)
+- [🛡️ Key Architectural Considerations](#️-key-architectural-considerations)
+- [📈 Star History](#-star-history)
+- [💖 Support](#-support)
+- [🤝 Contributing](#-contributing)
+- [📜 License](#-license)
 
 ---
 
-## Proprietary SaaS Solutions
+## 📊 Sector Overview & Market Dynamics
 
-### Overview Table (Sorted by Company Scale)
+The global client portal software and dedicated B2B collaboration market is estimated at **$1.75B to $2.2B**, expanding toward **$8.0B by the early 2030s** at an estimated CAGR of ~18%, operating within the broader **$430B+ global B2B SaaS** 🌐 and enterprise collaboration ecosystem.
 
-The table below catalogs proprietary B2B partner workspace and client portal platforms, sorted in descending order by **Company Scale (Valuation or Market Capitalization / Annual Revenue)**.
+The sector exhibits **moderate fragmentation with bi-modal concentration** ⚖️: mega-cap ecosystem titans (Microsoft, Salesforce/Slack) dominate horizontal inter-organization messaging and shared channels ("winner-take-most" in general corporate communication), while specialized B2B workflows—such as white-label agency client portals 🏷️, secure virtual data rooms (VDRs) 🔒, sales enablement rooms 🎯, and open-source self-hosted portals 🛠️—remain highly fragmented among niche providers competing on custom branding, regulatory compliance, client permissions, and multi-tenant isolation.
+
+---
+
+## ☁️ Proprietary SaaS Solutions
+
+### 📋 Overview Table (Sorted by Company Scale)
+
+The table below catalogs proprietary B2B partner workspace and client portal platforms, sorted in descending order by **Company Scale (Valuation or Market Capitalization / Annual Revenue)** 💰.
 
 | SaaS Product | Category / Type | Company Scale (Valuation / Revenue) | Starting Price (Specific Tier) | Free Tier / Free Trial Limits | Primary B2B Collaboration Capabilities |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -56,22 +60,22 @@ The table below catalogs proprietary B2B partner workspace and client portal pla
 
 ---
 
-### Architectural Categories
+### 🏗️ Architectural Categories
 
-1. **Integrated Cross-Organization Communication Channels**:
+1. **🔗 Integrated Cross-Organization Communication Channels**:
    - Features embedded directly within major team productivity tools (e.g., Slack Connect, Teams Shared Channels, Postman Partner Workspaces).
    - Designed to avoid switching contexts while maintaining corporate compliance controls.
-2. **Dedicated Client Portals & Virtual Data Rooms (VDR)**:
+2. **📁 Dedicated Client Portals & Virtual Data Rooms (VDR)**:
    - Standalone systems purpose-built for client onboarding, secure file sharing, NDAs, and deal rooms (e.g., Clinked, ClientPoint, Box Hubs).
    - Characterized by white-label branding, client login portals, and forensic audit logging.
-3. **Sales Enablement & Deal Rooms**:
+3. **💼 Sales Enablement & Deal Rooms**:
    - Focused on buyer-seller collaboration, mutual action plans (MAPs), and proposal evaluation (e.g., Highspot).
 
 ---
 
-## Open-Source Solutions
+## 💻 Open-Source Solutions
 
-The table below catalogs open-source repositories designed for client portals, partner collaboration, internal-to-external workspaces, and embeddable document collaboration. Sorted in descending order by **GitHub Star Count**.
+The table below catalogs open-source repositories designed for client portals, partner collaboration, internal-to-external workspaces, and embeddable document collaboration. Sorted in descending order by **GitHub Star Count** ⭐.
 
 | Repository & Stargazers | Category / Tech Stack | Description & Collaboration Focus |
 | :--- | :--- | :--- |
@@ -88,22 +92,40 @@ The table below catalogs open-source repositories designed for client portals, p
 
 ---
 
-## Key Architectural Considerations
+## 🛡️ Key Architectural Considerations
 
 When selecting or architecting a B2B partner collaboration workspace, evaluate the following factors:
 
-1. **Identity & Authentication (B2B Federation)**:
+1. **🔐 Identity & Authentication (B2B Federation)**:
    - Does the platform support Azure AD / Entra ID B2B Direct Connect, SAML 2.0, or OIDC federation, allowing partners to use their home identity providers without creating duplicate accounts?
-2. **Data Boundary & Multitenancy Isolation**:
+2. **🧱 Data Boundary & Multitenancy Isolation**:
    - Are partner documents logically separated via tenant IDs or physically separated via dedicated database schemas or storage buckets?
-3. **Auditing & Forensic Logging**:
+3. **🔍 Auditing & Forensic Logging**:
    - Does the workspace provide granular download logs, watermarking, and NDA gatekeeping (critical for Virtual Data Rooms and IP sharing)?
-4. **Guest Licensing Cost Models**:
+4. **💳 Guest Licensing Cost Models**:
    - Beware of platforms where external guests consume full-priced user seats (e.g., Asana) versus platforms with zero-cost guest licensing or dedicated portal pricing models (e.g., Microsoft Teams B2B Connect, Clinked).
 
 ---
 
-## Contributing
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-B2B-Partner-Collaboration-Workspaces&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-B2B-Partner-Collaboration-Workspaces&type=date&legend=top-left)
+
+---
+
+## 💖 Support
+
+Thank you for visiting and supporting this curated resource! 🌟
+
+If you find this repository helpful:
+- ⭐ **Star** this repository to show your support!
+- 🍴 **Fork** it and contribute new platforms or open-source solutions.
+- 📢 **Share** it with fellow software architects, engineering leads, and product teams.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to back ongoing open-source curation and research, check out the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue:
 1. Fork this repository.
@@ -115,6 +137,6 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 ---
 
-## License
+## 📜 License
 
 This project is licensed under the [MIT License](./LICENSE).
