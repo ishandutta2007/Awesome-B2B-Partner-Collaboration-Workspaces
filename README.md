@@ -75,7 +75,7 @@ The table below catalogs proprietary B2B partner workspace and client portal pla
 
 ## 💻 Open-Source Solutions
 
-The table below catalogs open-source repositories designed for client portals, partner collaboration, internal-to-external workspaces, and embeddable document collaboration. Sorted in descending order by **GitHub Star Count** ⭐.
+The table below catalogs open-source repositories designed for client portals, partner collaboration, internal-to-external workspaces, and embeddable document collaboration. Sorted in descending order by **GitHub Stars_Count** ⭐.
 
 | Repository & Stargazers | Category / Tech Stack | Description & Collaboration Focus |
 | :--- | :--- | :--- |
@@ -131,7 +131,7 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 1. Fork this repository.
 2. Create a branch: `git checkout -b feature/new-workspace-tool`.
 3. Verify that SaaS submissions include verified pricing, specific tier limits, and valuation/revenue metrics.
-4. Verify that Open-Source submissions include active GitHub repositories and proper star badges.
+4. Verify that Open-Source submissions include active GitHub repositories and proper Stars_Badges.
 5. Commit your changes: `git commit -m "Add new B2B collaboration workspace"`.
 6. Push to your branch and open a pull request.
 
